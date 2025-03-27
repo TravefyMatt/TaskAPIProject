@@ -1,0 +1,22 @@
+# .NET build files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# SQL secrets or connection strings (optional, if you use secrets.json)
+secrets.json
+
+# macOS system files
+.DS_Store
+
+# User-specific files
+*.swp
+*.tmp
+
+# Azure Data Studio or SQL logins (if any)
+*.sqlplan
+
+# VS Code
+.vscode/
