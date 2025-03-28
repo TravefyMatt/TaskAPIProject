@@ -22,3 +22,12 @@ run dotnet test
 open explore.sql
 click green run button
 choose connection profile
+
+## Highlights
+create basic .NET 8 web API project
+use in-memory data store at first
+xunit unit testing
+Add SQL Server for data persistence (remove in-memory data store at this point)
+Learned about layered architecture (controller layer, service layer, data layer)
+Use postman to send requests to app
+Use SQL Server extension to view table in data layer
